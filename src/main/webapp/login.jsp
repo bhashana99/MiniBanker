@@ -9,9 +9,11 @@
 <html>
 <head>
   <title>Login - Mini Banker</title>
+  <link rel="stylesheet" type="text/css" href="css/login.css">
 </head>
 <body>
 <form action="login" method="post">
+  <h2>Admin Login</h2>
   <label for="username">Username:</label><br>
   <input type="text" name="username" id="username" required ><br><br>
 
